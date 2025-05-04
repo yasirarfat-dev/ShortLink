@@ -1,0 +1,16 @@
+# Ignore node_modules in all folders
+node_modules/
+
+# Ignore build artifacts
+frontend/build/
+backend/public/build/
+
+# Logs
+*.log
+
+# OS / editor files
+.DS_Store
+
+# Optional: Ignore lockfiles (if you're not committing them)
+package-lock.json
+yarn.lock

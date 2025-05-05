@@ -2,8 +2,6 @@
 node_modules/
 
 # Ignore build artifacts
-frontend/build/
-backend/public/build/
 
 # Logs
 *.log
